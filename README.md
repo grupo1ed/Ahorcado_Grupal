@@ -1,0 +1,2 @@
+# muertoPorCuerda
+Repositorio del ahorcado
