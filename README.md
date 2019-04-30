@@ -9,6 +9,7 @@ En esta página iremos comentando los avances que vayamos haciendo en el Ahorcad
 - Implementación de una Configuración para la Portada.
 - Mejora de la Configuración.
 - Añadido Codigo del Dibujo del Ahorcado.
+- Añadido de Etiquetas.
 
 ### Componentes del Grupo 1:
 
