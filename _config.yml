@@ -12,3 +12,16 @@ highlighter: C
 twitter: https://twitter.com/paellafamiliar
 GitHub: https://github.com/grupo1ed
 Facebook: https://facebook.com/paellafamiliar
+
+# Etiquetas
+etiquetas :
+  - nombre : paella Grupal
+    color : 0e8a16
+  - nombre : ahorcado
+    color : d93f0b
+  - nombre : C
+    color : b60205
+  - nombre : Entornos de Desarrollo
+    color : 1d76db
+  - nombre : Grupo1
+    color : " 5319e7 "
