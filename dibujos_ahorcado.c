@@ -86,14 +86,3 @@ void dibujo(int intentos) {
 
 
 
-/*
-printf("  ___________      \n");
-printf("  |         |      \n");
-printf("  |        ( )     \n");
-printf("  |        /|\\    \n");
-printf("  |         |      \n");
-printf("  |        / \\    \n");
-printf("  |       /   \\   \n");
-printf("  |                \n");
-printf("__|__              \n");
-*/
