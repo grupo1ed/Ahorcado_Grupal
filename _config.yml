@@ -1,3 +1,14 @@
+# Inicio
 theme: jekyll-theme-merlot
 title: Bienvenidos a Paella Familiar!!
 description: En esta página iremos comentando los avances que vayamos haciendo en el Ahorcado.
+
+# Configuración
+url: https://grupo1ed.github.io/Ahorcado_Grupal
+paginate: 1
+highlighter: C
+
+# Redes Sociales
+twitter: https://twitter.com/paellafamiliar
+GitHub: https://github.com/grupo1ed
+Facebook: https://facebook.com/paellafamiliar
