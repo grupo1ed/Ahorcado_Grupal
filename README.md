@@ -2,6 +2,12 @@
 
 En esta página iremos comentando los avances que vayamos haciendo en el Ahorcado.
 
+## Avances :
+
+- Implementación de una Portada.
+- Mejora de la Portada.
+- Implementación de una Configuración para la Portada.
+- Mejora de la Configuración.
 
 ### Componentes del Grupo 1:
 
