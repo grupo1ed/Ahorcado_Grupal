@@ -1,10 +1,10 @@
 #include <stdio.h>
 #include <string.h>
-
+void dibujo(int);
 int main(int argc, char const *argv[]) {
-
-  int intentos = 6;
-  
+ 
+  int intentos = 7;
+  dibujo(intentos);
 }
 
 // DIBUJO DE AHORCADO
@@ -80,7 +80,7 @@ void dibujo(int intentos) {
     printf("                      |        / \\    \n");
     printf("                      |       /   \\   \n");
     printf("                      |                \n");
-    printf("                    S__|__              \n");
+    printf("                    __|__              \n");
   }
 }
 
