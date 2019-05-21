@@ -1,9 +1,6 @@
 #include <stdio.h>
 #include <string.h>
 void dibujo(int);
-
-int main(int argc, char const *argv[]) {}
-
 // DIBUJO DE AHORCADO
 void dibujo(int intentos) {
 
