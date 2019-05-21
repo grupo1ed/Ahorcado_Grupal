@@ -8,9 +8,8 @@
 char * Palabra();
 
 void main(){
-
  char *palabra=Palabra();
- printf("\n%s\n", palabra);
+ printf("%s", palabra);
 }
 
 char * Palabra(){
@@ -18,6 +17,5 @@ char * Palabra(){
   srand(time(NULL));
   float numero = rand() % (9 - 0) + 0;
   int redondeo = roundf(numero);
-  char palabra[50]; strcpy(palabra,lista[redondeo]);
-  return palabra;
+  return lista[redondeo];
 }
