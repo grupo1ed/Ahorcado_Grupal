@@ -5,13 +5,6 @@
 #include <time.h>
 #include <math.h>
 
-char * Palabra();
-
-void main(){
- char *palabra=Palabra();
- printf("%s", palabra);
-}
-
 char * Palabra(){
   char *lista[10] = {"oso", "amigo", "estornudo", "microondas", "continuacion", "aminoacido", "algoritmo", "inteligencia", "mentecato", "procesos"};
   srand(time(NULL));
